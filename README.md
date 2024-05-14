@@ -1,7 +1,7 @@
 # AI Blogger: Generate Blogs with Artificial Intelligence
 
 ## Overview
-AI Blogger is a project aimed at automating the process of generating blog posts using artificial intelligence (AI). It leverages the capabilities of various AI technologies to assist users in creating informative, engaging, and well-structured blog content on a variety of topics.
+AI Blogger is a project aimed at automating the process of generating blog posts using artificial intelligence (AI). It leverages the capabilities of various AI technologies to assist users in creating informative, engaging, and well-structured blog content on a variety of topics. [Try It OUT!!!](https://huggingface.co/spaces/sancharikadebnath/AI-Blogger)
 
 ## Features
 
@@ -46,16 +46,13 @@ Contributions to the project are welcome! You can contribute by:
 
 - Submitting pull requests with improvements
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - This project was inspired by the growing interest in AI-driven content generation tools.
 - Special thanks to the developers and contributors of Streamlit, Google's Generative AI, and other libraries used in this project.
 
 ## Contact
-For any inquiries or feedback, feel free to contact the project maintainer at [your_email@example.com](mailto:your_email@example.com).
+For any inquiries or feedback, feel free to contact the project maintainer at [sancharikadebnath@gmail.com](mailto:sancharikadebnath@gmail.com).
 
 ## Note
 This project is for educational and experimental purposes only. The generated content may not always be perfect and may require human review and editing before publishing.
